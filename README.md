@@ -47,4 +47,4 @@ VITE_API_KEY=sua_chave_de_api_aqui
 VITE_API=https://api.themoviedb.org/3/movie/
 VITE_SEARCH=https://api.themoviedb.org/3/search/movie
 VITE_IMG=https://image.tmdb.org/t/p/w500/
->>>>>>> 0972ccbda41ace0d498c237c03fd5af6af5a6788
+>>>>>>>
